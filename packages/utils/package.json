@@ -26,5 +26,6 @@
     "@types/jest": "^26.0.14",
     "@types/react": "^16.9.52",
     "jest": "^26.5.3"
-  }
+  },
+  "gitHead": "e6a7ee3277c1c908de12ca857ada8abc19e5d45f"
 }
